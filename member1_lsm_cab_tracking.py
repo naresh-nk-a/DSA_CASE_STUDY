@@ -246,5 +246,3 @@ def main():
             print("\n[ERROR] Invalid choice. Please enter a number between 1 and 6.")
 
 
-if __name__ == "__main__":
-    main()
